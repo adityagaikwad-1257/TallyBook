@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    xmlns:tools="http://schemas.android.com/tools"
+    app:cardCornerRadius="15dp"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <LinearLayout android:gravity="center"
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:orientation="vertical"
+        android:paddingHorizontal="25dp"
+        android:paddingVertical="25dp">
+
+        <com.airbnb.lottie.LottieAnimationView
+            android:id="@+id/loading_illustration"
+            android:layout_width="100dp"
+            android:layout_height="80dp"
+            />
+
+        <TextView
+            android:id="@+id/message_dialog"
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:textAppearance="@style/TextAppearance.Material3.TitleMedium"
+            android:visibility="gone"
+            tools:text="Message here" />
+
+    </LinearLayout>
+
+
+</androidx.cardview.widget.CardView>

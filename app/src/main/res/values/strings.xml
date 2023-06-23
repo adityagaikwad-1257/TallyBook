@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Tally Book</string>
+    <string name="welcome_text">Welcome to Tally Book</string>
+    <string name="phone_number">Enter your phone number</string>
+    <string name="get_otp">GET OTP</string>
+    <string name="or">OR</string>
+    <string name="otp_sent">OTP sent to</string>
+    <string name="wrong_number">Not your number?</string>
+    <string name="change_it">Change it</string>
+    <string name="otp_hint">*</string>
+    <string name="resend_otp">Resend OTP</string>
+    <string name="verify_otp">VERIFY OTP</string>
+    <string name="signature">TallyBook by ADITYA</string>
+    <string name="country_code">+91</string>
+    <string name="otp_message">(An SMS containing OTP will be sent to your phone)</string>
+    <string name="welcome_subtitle">Manage your lending realtime</string>
+    <string name="privacy_title">We understand your privacy</string>
+    <string name="privacy_subtitle">We need some permissions for your effortless app experience</string>
+    <string name="enter_basic_details">Enter basic details</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last name</string>
+    <string name="phone">Phone number</string>
+    <string name="email_optional">Email (Optional)</string>
+    <string name="save_details">save details</string>
+    <string name="select_an_avatar">Select an Avatar</string>
+    <string name="data_safe_msg">Your data is safe with us.\nWe save your data for future reference.</string>
+    <string name="what_suits_you_better">What suits you better??</string>
+    <string name="select_from_device">Select Image on Device</string>
+    <string name="no_avatars_available">Sorry, no Avatars available :(</string>
+    <string name="loading_avatars">Loading Avatars...</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="refresh">Refresh</string>
+    <string name="invite">Invite</string>
+    <string name="contacts_on_tally_book">Contacts on Tally Book</string>
+    <string name="invite_to_tally_book">Invite to Tally book</string>
+    <string name="search_contact">Search name, phone number…</string>
+    <string name="contacts_permission">READ CONTACTS</string>
+    <string name="contacts_permission_message">To help you connect with friends and family, allow Tally Book access to your contacts</string>
+    <string name="contacts_permission_settings_message">To help you make transactions with friends and family on Tally Book, allow Tally Book access to your contacts.\nTap Settings > Permissions, and turn contacts on.</string>
+    <string name="search">Search</string>
+    <string name="no_contacts_found">No Contacts found.</string>
+    <string name="no_search_results_found">No search results found.</string>
+    <string name="scroll_to_top">scroll_to_top</string>
+    <string name="invite_msg">Invite message here</string>
+</resources>

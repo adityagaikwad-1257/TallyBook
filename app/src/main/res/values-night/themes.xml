@@ -1,0 +1,26 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.TallyBook" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/app_primary_light</item>
+        <item name="colorPrimaryVariant">@color/app_primary_light_variant</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/app_primary_light</item>
+        <item name="colorSecondaryVariant">@color/app_primary_light</item>
+        <item name="colorOnSecondary">@color/white</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+        <!-- Customize your theme here. -->
+        <item name="android:windowBackground">@color/app_primary_light_variant</item>
+        <item name="android:textColorSecondary">@color/white</item>
+    </style>
+
+    <style name="SearchViewTheme">
+        <item name="android:editTextColor">@color/white</item>
+        <item name="android:textColorHint">@color/light_white</item>
+        <item name="colorAccent">@color/light_white</item>
+        <item name="background">@color/tool_bar_color</item>
+    </style>
+
+</resources>

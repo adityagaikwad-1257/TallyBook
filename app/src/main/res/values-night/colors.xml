@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="window_background_color_primary">#121212</color>
+    <color name="tool_bar_color">#2B3A55</color>
+    <color name="text_color_light">@android:color/darker_gray</color>
+    <color name="text_color">#fff</color>
+
+    <color name="text_color_light_invert">#424242</color>
+
+    <color name="fab_bg_color">@android:color/darker_gray</color>
+</resources>

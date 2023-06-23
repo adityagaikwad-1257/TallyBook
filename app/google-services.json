@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "322101980896",
+    "project_id": "tally-book-84a2f",
+    "storage_bucket": "tally-book-84a2f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:322101980896:android:623b02f5fb8f3c331e6a85",
+        "android_client_info": {
+          "package_name": "com.adi.tallybook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "322101980896-fbkj40d335ims3g0a8oktjs8gt842nph.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbyIXMieXssYIKVu6W6SxD7PMJ-9Kd0KM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "322101980896-fbkj40d335ims3g0a8oktjs8gt842nph.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
